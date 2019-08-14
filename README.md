@@ -13,7 +13,7 @@ Documents included are:
 6.  Graphs from spring modeling analysis in the spring_images folder
 
 ## Required installations
-Use package managers [pip](https://pip.pypa.io/en/stable/) or [conda](https://docs.conda.io/en/latest/) to install the following necessary libaries.
+Use package managers [pip](https://pip.pypa.io/en/stable/) or [conda](https://docs.conda.io/en/latest/) to install the following necessary libaries. Also, the recommended version of python to use is 3.7.
 
 ```bash
 install folium, pandas, numpy, geopy, ipyleaflet
